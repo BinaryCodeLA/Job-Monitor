@@ -1,0 +1,9 @@
+C:\Users\BinaryCode\Documents\App\DLL Jobs\JobsMonitor\bin\Debug\netcoreapp3.1\JobsMonitor.deps.json
+C:\Users\BinaryCode\Documents\App\DLL Jobs\JobsMonitor\bin\Debug\netcoreapp3.1\JobsMonitor.dll
+C:\Users\BinaryCode\Documents\App\DLL Jobs\JobsMonitor\bin\Debug\netcoreapp3.1\JobsMonitor.pdb
+C:\Users\BinaryCode\Documents\App\DLL Jobs\JobsMonitor\obj\Debug\netcoreapp3.1\JobsMonitor.AssemblyInfoInputs.cache
+C:\Users\BinaryCode\Documents\App\DLL Jobs\JobsMonitor\obj\Debug\netcoreapp3.1\JobsMonitor.AssemblyInfo.cs
+C:\Users\BinaryCode\Documents\App\DLL Jobs\JobsMonitor\obj\Debug\netcoreapp3.1\JobsMonitor.csproj.CoreCompileInputs.cache
+C:\Users\BinaryCode\Documents\App\DLL Jobs\JobsMonitor\obj\Debug\netcoreapp3.1\JobsMonitor.dll
+C:\Users\BinaryCode\Documents\App\DLL Jobs\JobsMonitor\obj\Debug\netcoreapp3.1\JobsMonitor.pdb
+C:\Users\BinaryCode\Documents\App\DLL Jobs\JobsMonitor\obj\Debug\netcoreapp3.1\JobsMonitor.csprojAssemblyReference.cache

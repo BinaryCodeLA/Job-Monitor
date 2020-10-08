@@ -1,0 +1,22 @@
+{
+  "__comment1": "El estado 0 indica que el Job fallado de alguna manera",
+  "EstadosJobs": "0",
+  "__comment2": "Para agregar más instancias solo se debe separa por una coma",
+  "Instances": "DESKTOP-HA1HRQI",
+  "__comment3": "Password de Usuario uno para todas las Instancia",
+  "PasswordDB": "developer2020",
+  "__comment4": "Nombre de Usuario uno para todas las instancias",
+  "UserDB": "userjobs",
+  "__comment5": "Nombre de la instacia destino donde se guardarán los resultados",
+  "Instance_Dest": "DESKTOP-HA1HRQI",
+  "__comment6": "Nombre de la base de datos donde se guardarán los resultados",
+  "DataBase_Dest": "Dataprueba",
+  "__comment7": "Nombre de la Tabla que se creó para guardar los resultados",
+  "Table_Dest": "JobsNotificationlogs",
+  "__comment8": "Usuario de base de datos que se usa para guardar el logs de jobs",
+  "User_Dest": "userjobs",
+  "__comment9": "Password de usuario que se usa para guardar el logs de jobs",
+  "Password_Dest": "developer2020",
+  "__comment10": "dias hacia atrás que se deben parametrizar para buscar en histórico, debe estar en negativo -1 por defecto buscará los jobs fallidos de ayer a hoy",
+  "days": "-3"
+}
